@@ -8,7 +8,7 @@ We do not collect any personal information or data from our users. Pitboard does
 
 ### Automatically Collected Information
 
-Pitboard does not collect any information automatically when you use the application.
+Pitboard utilizes Firebase Analytics for non-personalized analytics on user interactions with the application. This includes data such as which widgets were added and which series are included.
 
 ### Disclosure of Your Information
 
